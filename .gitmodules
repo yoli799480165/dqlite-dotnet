@@ -1,0 +1,8 @@
+[submodule "native/dqlite"]
+	path = native/dqlite
+	url = https://github.com/canonical/dqlite.git
+	branch = master
+[submodule "native/raft"]
+	path = native/raft
+	url = https://github.com/canonical/raft.git
+	branch = master
